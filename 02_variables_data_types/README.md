@@ -38,7 +38,7 @@ There are 2 types of integers, unsigned and signed integers
 
 ## Examples
 
-```go
+```golang
 package main
 
 import "fmt"
