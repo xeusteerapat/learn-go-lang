@@ -1,8 +1,3 @@
-# Math and arithmetic
-
-math operations
-
-```go
 package main
 
 import (
@@ -36,4 +31,3 @@ func main() {
 	sqrt5 := math.Sqrt(5)
 	fmt.Println(sqrt5)
 }
-```
