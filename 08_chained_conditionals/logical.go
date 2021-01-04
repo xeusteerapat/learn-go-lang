@@ -1,16 +1,3 @@
-# Chained Conditions (AND OR NOT)
-
-with logical operators
-
-```go
-&&
-||
-!
-```
-
-example
-
-```go
 package main
 
 import (
@@ -30,4 +17,3 @@ func main() {
 	fmt.Printf("%t\n", val4) // false
 
 }
-```
