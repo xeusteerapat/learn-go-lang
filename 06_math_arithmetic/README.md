@@ -37,3 +37,5 @@ func main() {
 	fmt.Println(sqrt5)
 }
 ```
+
+[References](https://golang.org/pkg/math/)
