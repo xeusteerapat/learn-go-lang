@@ -1,17 +1,3 @@
-# Boolean Expression
-
-comparison operator (both values must be the same type)
-
-```go
->
-<
-<=
->=
-==
-!=
-```
-
-```go
 package main
 
 import (
@@ -37,4 +23,3 @@ func main() {
 
 	fmt.Printf("%t\n", val4) // true
 }
-```
